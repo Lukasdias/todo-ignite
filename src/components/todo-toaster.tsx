@@ -17,17 +17,9 @@ export default function TodoToaster() {
         },
         success: {
           duration: 2000,
-          theme: {
-            primary: "green",
-            secondary: "black",
-          },
         },
         error: {
           duration: 2000,
-          theme: {
-            primary: "red",
-            secondary: "black",
-          },
         },
       }}
     />
