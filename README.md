@@ -8,3 +8,14 @@
   - Remover uma tarefa da listagem
   - Mostrar o progresso de conclusão das tarefas
 ## Layout
+<img src="./TodoList.jpg" alt="" />
+
+## Tecnologias utilizadas
+- React
+- Typescript
+- Vite
+- Jotai
+- Tailwind
+- Radix UI (Checkbox)
+- Phosphor Icons
+- Shortid
